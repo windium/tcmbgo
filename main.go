@@ -1,4 +1,4 @@
-package tcmbgo
+package github.com/windium/tcmbgo
 
 import (
 	"encoding/xml"
